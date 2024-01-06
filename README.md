@@ -1,11 +1,10 @@
-# qa_python
-Реализованные тесты:
-1. Добавление двух книг в словарь
-2. Добавление жанра для книги
-3. Получение книги, подходящей детям
-4. Добавление книги в избранное
-5. Удаление книги из избранного
-6. Добавление книги с некорректным названием (негативный)
-7. Получение книги определённого жанра
-8. Добавление книги и жанра, которых нет в списках (негативный)
-9. Получение книги, подходящей детям, с некорректными жанрами (негативный)
+Implemented tests:
+1. Adding two books to the dictionary
+2. Adding a genre for a book
+3. Getting a book that is suitable for children
+4. Adding a book to favorites
+5. Removing a book from favorites
+6. Adding a book with an incorrect title (negative)
+7. Getting a book of a certain genre
+8. Adding a book and genre that are not in the lists (negative)
+9. Getting a kid-friendly book with the wrong genres (negative)
